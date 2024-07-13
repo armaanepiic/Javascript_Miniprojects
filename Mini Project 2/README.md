@@ -1,2 +1,2 @@
 # Javascript_practice
-Here i will practice javascript
+site link : https://randomquotegeneratorbyarman.netlify.app/
